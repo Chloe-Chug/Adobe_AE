@@ -8,3 +8,5 @@
 
 ### 導入素材
 
+
+![image](effect70.gif)
