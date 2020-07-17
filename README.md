@@ -56,7 +56,7 @@ Duration ： 設定合成的時間長度
 
 ![image](image/1594925071667.jpg)
 
-在Basic((基本)旁邊有兩個標籤
+在Basic(基本)旁邊有兩個標籤
 
 一個是Advanced(進階設定)，一個是3D Renderer(3D渲染設定)是比較後期才會用到的設置，目前先不說
 
