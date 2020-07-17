@@ -6,7 +6,7 @@
 
 ## 基本介面介紹
 
-![image](image/a1.png)
+![image](image/a1.jpg)
 
 ## 基本操作
 
