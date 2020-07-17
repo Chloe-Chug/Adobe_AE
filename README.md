@@ -99,3 +99,8 @@ Duration ： 設定合成的時間長度
 
 ![image](image/p1.jpg)
 
+### 特效與預設面板
+
+可以為圖層加入特效，After Effects 本身提供很多的特效，可以輸入關鍵字來搜尋需要使用的特效項目。此外，After Effects 可以安裝協力廠商開發的外掛程式以增加更多的特效
+
+![image](image/1.jpg)
